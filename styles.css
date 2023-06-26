@@ -131,6 +131,10 @@ header .column span{
   text-align: center;
 }
 
+.piano-keys .key.hide span {
+  display: none;
+}
+
 footer {
   position: absolute;
   bottom: 0;
